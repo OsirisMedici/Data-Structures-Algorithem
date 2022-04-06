@@ -21,7 +21,7 @@ int main()
 
             ch = ch + 1;
 
-            // col++;
+            col++;
         }
         cout << endl;
         row++;
