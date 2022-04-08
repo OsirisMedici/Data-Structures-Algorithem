@@ -8,7 +8,7 @@ int main()
     int deci;
     cin >> deci;
 
-        int i = 0;
+    int i = 0;
     int ans = 0;
 
     while (deci != 0)
