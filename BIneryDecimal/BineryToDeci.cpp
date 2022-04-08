@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    cout << "Enter a Number You want binery form: ";
+    cout << "Enter a Binery Number You want Decimal form : ";
     int n;
     cin >> n;
 
