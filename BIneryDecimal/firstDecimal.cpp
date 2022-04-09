@@ -21,3 +21,8 @@ int main()
     }
     cout << "Your Answer is: " << ans << endl;
 }
+
+
+
+// there is a problem in this code----> in some numbers it did not spiting the binery form 
+// for ex.23
