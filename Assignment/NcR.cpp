@@ -20,11 +20,16 @@ int nCr(int n, int r)
 
     int answer = nume / demon;
     return answer;
+    cout << answer << endl;
 }
 
 int main()
 {
     int n, r;
-    cin >> n >> r;
+    cout << "Enter n: " << endl;
+    cin >> n;
+    cout << "Enter r: " << endl;
+    cin >> r;
+
     cout << "Answer is " << nCr(n, r) << endl;
 }
