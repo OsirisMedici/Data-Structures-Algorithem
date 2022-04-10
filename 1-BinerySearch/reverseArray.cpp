@@ -1,3 +1,5 @@
+// This logic is not working for reverseing this array
+
 #include <iostream>
 using namespace std;
 
@@ -33,3 +35,4 @@ int main()
 
     return 0;
 }
+
