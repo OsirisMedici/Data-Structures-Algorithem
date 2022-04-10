@@ -33,8 +33,10 @@ int firstOcuur(int arr[], int size, int key)
         {
             end = mid - 1;
         }
-        return ans;
+
+        mid = start + (end - start) / 2;
     }
+    return ans;
 }
 
 int LastOcuur(int arr[], int size, int key)
@@ -56,11 +58,12 @@ int LastOcuur(int arr[], int size, int key)
         {
             start = mid + 1;
         }
-        else
+        else if (key < arr[mid])
         {
             end = mid - 1;
         }
-        int mid = start + (end - start) / 2;
+
+        mid = start + (end - start) / 2;
     }
     return ans;
 }
@@ -68,11 +71,13 @@ int LastOcuur(int arr[], int size, int key)
 int main()
 {
     int arr5[11] = {1, 2, 2, 2, 2, 2, 5, 6, 6, 7, 9};
-    cout << "lssse" << endl;
+    // cout << "lssse" << endl;
 
     cout << "First Occurance of 2 is on Index: " << firstOcuur(arr5, 11, 2) << endl;
-    cout << "lssse" << endl;
+    // cout << "lssse" << endl;
 
     cout << "Last Occurance of 2 is on Index: " << LastOcuur(arr5, 11, 2) << endl;
-    cout << "lssse" << endl;
+    // cout << "lssse" << endl;
+
+    return 0;
 }
