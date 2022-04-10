@@ -20,27 +20,24 @@ int searchBin(int arr[], int size, int key)
         else if (key < arr[mid])
         {
             end = mid - 1;
-        }
-        else
-        {
-            cout << "Default" << endl;
+            // start = 0;
         }
 
         //(key < arr[mid])
 
-        mid = start + (end - start) / 2;
+        mid = (start + end) / 2;
     }
     return -1;
 }
 
 int main()
 {
-    int bin[9] = {23, 45, 67, 54, 3, 7, 9, 100, 4};
+    int bin[9] = {2, 34, 45, 56, 59, 65, 73, 81, 100};
     // key = 54
 
     // searchBin(bin, 9, 34);
 
-    cout << "THe Index of key is By BInery search: " << searchBin(bin, 9, 23) << endl;
+    cout << "THe Index of key is By BInery search: " << searchBin(bin, 9, 2) << endl;
 
     return 0;
 }
