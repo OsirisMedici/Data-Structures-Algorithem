@@ -77,13 +77,13 @@ int main()
     // cout << "lssse" << endl;
 
     cout << "Last Occurance of 2 is on Index: " << LastOcuur(arr5, 11, 2) << endl;
-    cout < < < < endl;
+    // cout < < < < endl;
 
     // int ans = 0;
     // int last_index = LastOcuur(arr5, 11, 2);
     // int first_index = first_index(arr5, 11, 2);
 
-    // ans = (first_index + last_index) + 1;
+    // ans = ( last_index - first_index) + 1;
     // cout << "Total Number of Occurance: " << ans << endl;
 
     return 0;
