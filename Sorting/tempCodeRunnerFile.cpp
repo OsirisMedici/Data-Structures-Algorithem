@@ -1,2 +1,2 @@
-sortArr(arr7, 5);
-    // printArr(arr7, 5);
+rtArr(arr2, 7);
+    printArr(arr
