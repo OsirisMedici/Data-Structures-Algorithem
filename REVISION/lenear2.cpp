@@ -19,6 +19,11 @@ int SearchArray(int arr[], int size, int key)
 int main()
 {
     int linear3[8] = {23, 54, 32, 78, 87, 2, 7, 100};
+    int key;
 
-    SearchArray(linear3, 8, 2);
+    cout << "Enter a Numbetr you want to find Index: ";
+
+    cin >> key;
+
+    SearchArray(linear3, 8, key);
 }
