@@ -30,14 +30,14 @@ int main()
 {
     vector<int> v;
 
-    v.push_back = (34);
-    v.push_back = (23);
-    v.push_back = (19);
-    v.push_back = (17);
-    v.push_back = (13);
-    v.push_back = (11);
-    v.push_back = (7);
-    v.push_back = (3);
+    v.push_back(34);
+    v.push_back(23);
+    v.push_back(19);
+    v.push_back(17);
+    v.push_back(13);
+    v.push_back(11);
+    v.push_back(7);
+    v.push_back(3);
 
     vector<int> ans = reverse(v);
 
