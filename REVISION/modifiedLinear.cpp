@@ -24,9 +24,9 @@ int main()
 
     cin >> key;
 
-    bool fount = SearchArray(linear3, 8, key);
+    bool found = SearchArray(linear3, 8, key);
 
-    if (fount)
+    if (found)
     {
         cout << "Key is present. " << endl;
     }
