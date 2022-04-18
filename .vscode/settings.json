@@ -9,6 +9,7 @@
         "initializer_list": "cpp",
         "utility": "cpp",
         "algorithm": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "valarray": "cpp"
     }
 }
