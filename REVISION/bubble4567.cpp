@@ -12,9 +12,9 @@ int printArr(int arr[], int size)
 
 int bubbleArray(int arr[], int size)
 {
-    for (int i = 1; i < size; i++)
+
+    for (int i = 0; i < size - 1; i++)
     {
-        int minIndex = i;
         for (int j = 0; j < size - 1 - i; j++)
         {
             if (arr[j] > arr[j + 1])
