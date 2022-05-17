@@ -17,5 +17,6 @@ int main()
 
     arr2.is_empty;
 
-    // cout << arr.length << endl;
+    int arrSize = arr2.length;
+    cout << "Length: "<< arr2.length << endl;
 }
