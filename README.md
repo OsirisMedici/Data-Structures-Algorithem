@@ -9,20 +9,20 @@ Data structures and algorithms play a major role in implementing software and in
 ### Topics of Study
 
 - [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
-- [Data Structures](#data-structures)
-    - [Arrays](#arrays)
-    - [Linked Lists](#linked-lists)
-    - [Stack](#stack)
-    - [Tree](#Tree)
-    - [Queue](#queue)
-    - [Hash table](#hash-table)
+- Data Structures 
+    - Arrays 
+    - Linked Lists
+    - Stack 
+    - Tree 
+    - Queue 
+    - Hash table 
 - Recursion
-    - [What is Recursion](#binary-search)
-    - [Why is recursion](#bitwise-operations)
-    - [Iteration vs Recursion](#bitwise-operations)
-    - [Advantage of recursion](#bitwise-operations)
-    - [Advantage of Iteration](#bitwise-operations)
-    - [Backstracking](#bitwise-operations)
+    - What is Recursion 
+    - Why is recursion
+    - Iteration vs Recursion 
+    - Advantage of recursion 
+    - Advantage of Iteration 
+    - Backstracking 
  
 ## Some Important Mentorship Blogs 
 1. Read this before you start solving problems on Leetcode (Prep Work) [Link of Blog ](https://medium.com/@alimirio/before-you-start-solving-problems-on-leetcode-prep-work-9d65fc964c6f)
