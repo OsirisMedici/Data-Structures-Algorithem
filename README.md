@@ -7,6 +7,39 @@ A lot of beginners and experienced programmers avoid learning Data Structures an
 
 Data structures and algorithms play a major role in implementing software and in the hiring process as well. A lot of students and professionals have this question that why these companies’ interviews are focused on DSA instead of language/frameworks/tools specific questions? 
 
+### Topics of Study
+
+- [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
+- [Data Structures](#data-structures)
+    - [Arrays](#arrays)
+    - [Linked Lists](#linked-lists)
+    - [Stack](#stack)
+    - [Queue](#queue)
+    - [Hash table](#hash-table)
+- [More Knowledge](#more-knowledge)
+    - [Binary search](#binary-search)
+    - [Bitwise operations](#bitwise-operations)
+- [Trees](#trees)
+    - [Trees - Notes & Background](#trees---notes--background)
+    - [Binary search trees: BSTs](#binary-search-trees-bsts)
+    - [Heap / Priority Queue / Binary Heap](#heap--priority-queue--binary-heap)
+    - balanced search trees (general concept, not details)
+    - traversals: preorder, inorder, postorder, BFS, DFS
+- [Sorting](#sorting)
+    - selection
+    - insertion
+    - heapsort
+    - quicksort
+    - merge sort
+- [Graphs](#graphs)
+    - directed
+    - undirected
+    - adjacency matrix
+    - adjacency list
+    - traversals: BFS, DFS
+- [Even More Knowledge](#even-more-knowledge)
+    - [Recursion](#recursion)
+
 ## Some Important Mentorship Blogs 
 1. Read this before you start solving problems on Leetcode (Prep Work) [Link of Blog ](https://medium.com/@alimirio/before-you-start-solving-problems-on-leetcode-prep-work-9d65fc964c6f)
 2. Why Engineers need to master Data Structures and Algorithms ? [Link of Blog ](https://dev.to/mrsaeeddev/why-engineers-need-to-master-data-structures-and-algorithms-4mep)
