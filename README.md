@@ -18,11 +18,21 @@ Data structures and algorithms play a major role in implementing software and in
     - Hash table 
 - Recursion
     - What is Recursion 
-    - Why is recursion
+    - Why we use recursion
     - Iteration vs Recursion 
     - Advantage of recursion 
     - Advantage of Iteration 
-    - Backstracking 
+    - Backstracking -> An Improvement of Brute force approch 
+ 
+ - Searching 
+    - Linear Search
+    - Binery search
+ - Sorting
+    - Selection Sort
+    - Bubble Sort
+    - Insertion Sort
+    - Merge Sort
+    - Quick Sort
  
 ## Some Important Mentorship Blogs 
 1. Read this before you start solving problems on Leetcode (Prep Work) [Link of Blog ](https://medium.com/@alimirio/before-you-start-solving-problems-on-leetcode-prep-work-9d65fc964c6f)
