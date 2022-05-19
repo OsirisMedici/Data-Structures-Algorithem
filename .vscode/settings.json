@@ -13,6 +13,9 @@
         "valarray": "cpp",
         "numeric": "cpp",
         "bitset": "cpp",
-        "regex": "cpp"
+        "regex": "cpp",
+        "sstream": "cpp",
+        "typeindex": "cpp",
+        "typeinfo": "cpp"
     }
 }

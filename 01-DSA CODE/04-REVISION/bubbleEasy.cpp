@@ -1,7 +1,7 @@
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 
-int printArr(int arr[], int size)
+void Printarray(int arr[], int size)
 {
     for (int i = 0; i < size; i++)
     {
@@ -9,11 +9,10 @@ int printArr(int arr[], int size)
     }
 }
 
-int bubbleArr(int arr[], int size)
+int bubbleSort(int arr[], int size)
 {
-    for (int i = 0; i < size -1; i++)
+    for (int i = 0; i < size - 1; i++)
     {
-        // another loop for swapping
         for (int j = 0; j < size - i; j++)
         {
             if (arr[j] > arr[j + 1])
@@ -26,10 +25,11 @@ int bubbleArr(int arr[], int size)
 
 int main()
 {
-    int linear3[8] = {23, 89, 32, 78, 87, 2, 7, 100};
+    int arr[7] = {2, 34, 19, 10, 100, 76, 83};
+    // int n = 7;
 
-    bubbleArr(linear3, 8);
-    printArr(linear3, 8);
+    bubbleSort(arr, 7);
+    Printarray(arr, 7);
 
     return 0;
 }
