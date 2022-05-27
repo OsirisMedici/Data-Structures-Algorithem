@@ -40,6 +40,20 @@ It is a very important topic and will come in the path very frequetly
   - reference variable
   - macro and global variable and Inline functions
 
+- Bitwise Operators
+  - Number system
+  - Bitwise type 
+    - And Operator
+    - OR Operator
+    - XOR Operator
+    - Complement Operator
+    - Left shift
+    - Right shift
+  
+  - 2's Compliment
+  - Negative Binary Number
+  - range of Binary Numbers and Formula too
+
 - Recursion
   - What is Recursion
   - Why we use recursion

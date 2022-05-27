@@ -1,21 +1,22 @@
 {
-    "C_Cpp.errorSquiggles": "Disabled",
-    "files.associations": {
-        "ostream": "cpp",
-        "iostream": "cpp",
-        "pattern2": "cpp",
-        "cmath": "cpp",
-        "array": "cpp",
-        "initializer_list": "cpp",
-        "utility": "cpp",
-        "algorithm": "cpp",
-        "vector": "cpp",
-        "valarray": "cpp",
-        "numeric": "cpp",
-        "bitset": "cpp",
-        "regex": "cpp",
-        "sstream": "cpp",
-        "typeindex": "cpp",
-        "typeinfo": "cpp"
-    }
+  "C_Cpp.errorSquiggles": "Disabled",
+  "files.associations": {
+    "ostream": "cpp",
+    "iostream": "cpp",
+    "pattern2": "cpp",
+    "cmath": "cpp",
+    "array": "cpp",
+    "initializer_list": "cpp",
+    "utility": "cpp",
+    "algorithm": "cpp",
+    "vector": "cpp",
+    "valarray": "cpp",
+    "numeric": "cpp",
+    "bitset": "cpp",
+    "regex": "cpp",
+    "sstream": "cpp",
+    "typeindex": "cpp",
+    "typeinfo": "cpp"
+  },
+  "C_Cpp_Runner.cCompilerPath": "gcc"
 }
