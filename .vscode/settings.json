@@ -16,7 +16,8 @@
     "regex": "cpp",
     "sstream": "cpp",
     "typeindex": "cpp",
-    "typeinfo": "cpp"
+    "typeinfo": "cpp",
+    "type_traits": "cpp"
   },
   "C_Cpp_Runner.cCompilerPath": "gcc"
 }

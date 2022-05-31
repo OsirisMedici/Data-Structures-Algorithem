@@ -8,10 +8,11 @@ int mergeArr(int *arr, int start, int end)
     int len1 = mid - start + 1;
     int len2 = end - mid;
 
+    // Temporary Arrays
     int *first = new int[len1];
     int *second = new int[len2];
 
-    // Now we will copy values
+    // Now we will copy values in Temporary Arrays
 
     int mainArrayIndex = start;
     for (int i = 0; i < len1; i++)
