@@ -1,7 +1,7 @@
 # Operating system notes with Topic 
 
 - What is Os
-- OS goals
+- [OS goals]( https://afteracademy.com/blog/what-is-an-operating-system-and-what-are-the-goals-and-functions-of-an-operating-system ) 
 - Types of OS
     - Single process OS
     - Batch-processing OS
