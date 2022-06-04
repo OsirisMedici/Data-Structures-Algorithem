@@ -4,6 +4,15 @@ A lot of beginners and experienced programmers avoid learning Data Structures an
 
 Data structures and algorithms play a major role in implementing software and in the hiring process as well. A lot of students and professionals have this question that why these companies’ interviews are focused on DSA instead of language/frameworks/tools specific questions?
 
+## Some Important Mentorship Blogs
+
+1. Read this before you start solving problems on Leetcode (Prep Work) [Link of Blog ](https://medium.com/@alimirio/before-you-start-solving-problems-on-leetcode-prep-work-9d65fc964c6f)
+2. Why Engineers need to master Data Structures and Algorithms ? [Link of Blog ](https://dev.to/mrsaeeddev/why-engineers-need-to-master-data-structures-and-algorithms-4mep)
+3. The Role Of Data Structure And Algorithms In Programming [Link of Blog ](https://blog.codechef.com/2020/07/24/the-role-of-data-structure-and-algorithms-in-programming/)
+
+<img src="https://user-images.githubusercontent.com/92660022/165998585-aafea114-78a9-4a11-a3fc-a0d7789ba828.jpg" width=55% height=55%>
+
+
 
   <!-- - Arrays
   - Linked Lists
@@ -71,13 +80,8 @@ It is a very important topic and will come in the path very frequetly
   - Merge Sort
   - Quick Sort
 
-## Some Important Mentorship Blogs
 
-1. Read this before you start solving problems on Leetcode (Prep Work) [Link of Blog ](https://medium.com/@alimirio/before-you-start-solving-problems-on-leetcode-prep-work-9d65fc964c6f)
-2. Why Engineers need to master Data Structures and Algorithms ? [Link of Blog ](https://dev.to/mrsaeeddev/why-engineers-need-to-master-data-structures-and-algorithms-4mep)
-3. The Role Of Data Structure And Algorithms In Programming [Link of Blog ](https://blog.codechef.com/2020/07/24/the-role-of-data-structure-and-algorithms-in-programming/)
 
-<img src="https://user-images.githubusercontent.com/92660022/165998585-aafea114-78a9-4a11-a3fc-a0d7789ba828.jpg" width=55% height=55%>
 
 <!-- <img src="https://user-images.githubusercontent.com/92660022/165998786-e9a74f28-0c2b-4cc8-979c-1bd986203e1c.jpg" width=50% height=50%> -->
 <!-- ![dsa](https://user-images.githubusercontent.com/92660022/165998786-e9a74f28-0c2b-4cc8-979c-1bd986203e1c.jpg) -->
