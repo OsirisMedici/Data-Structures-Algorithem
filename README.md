@@ -20,12 +20,18 @@ It is a very important topic and will come in the path very frequetly
 - Basic Topic first Before starting DSA
   - If else and nested Loops
   - Loops (For loop, while loop and Do while loop)
-  - Functions
+  - Functions or Methods
+    - Parameters and Function scope
+    - shadowing and function overloading
   - Arrays
+    - How does arrays works in java and C++
+    - Java discontinuous memory allocation
+    - dynamic memory allocation
+    - to.string()method
+    - Dynamic arrays or ArrayList
     - 2D arrays
     - properties of arrays
   - Strings
-  - Dynamic memory Allocation
   - Bitwise Operators
   - C++ STL
   - Basic maths for DSA
@@ -33,6 +39,7 @@ It is a very important topic and will come in the path very frequetly
 - Searching
   - Linear Search
   - Binery search
+    - Bineary search in 2D arrays too
 
 
 - Pointers
